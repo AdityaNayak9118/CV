@@ -61,9 +61,10 @@ Repository Setup
 
 To run locally:
 
-  git clone https://github.com/AdityaNayak9118/CV.git
+ '''bash 
+ git clone https://github.com/AdityaNayak9118/CV.git
   cd CV
-
+'''
 Then open:
 
 index.html
