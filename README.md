@@ -112,14 +112,14 @@ Connect With Me
 - LinkedIn: (Add your LinkedIn profile)
 - Email: (Add your professional email)
 
----
+## Running the Project Locally
 
-Running the Project Locally
-
+```bash
 git clone https://github.com/AdityaNayak9118/CV.git
 cd CV
+```
 
-Open "index.html" in your preferred web browser.
+Open `index.html` in your preferred web browser.
 
 ---
 
